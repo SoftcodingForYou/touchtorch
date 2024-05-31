@@ -23,7 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "com.example.touchtorch"
+    namespace "com.softcodingforyou.touchtorch"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
