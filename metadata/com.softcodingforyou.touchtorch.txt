@@ -1,0 +1,33 @@
+Categories:
+  - System
+License: BSD-3-Clause
+AuthorName: SoftcodingForYou
+AuthorEmail: contact@softcodingforyou.com
+AuthorWebSite: https://davidbaum.org/softcodingforyou
+SourceCode: https://github.com/SoftcodingForYou/touchtorch
+IssueTracker: https://github.com/SoftcodingForYou/touchtorch/issues
+Changelog: https://github.com/SoftcodingForYou/touchtorch/releases
+
+AutoName: Touch Torch
+
+RepoType: git
+Repo: git@github.com:SoftcodingForYou/touchtorch.git
+Binaries: https://github.com/SoftcodingForYou/touchtorch/releases/download/V1.0.1/TouchTorch_SoftcodingForYou_V1.0.1.apk
+
+Builds:
+  - versionName: '1.0.1'
+    versionCode: 2
+    commit: V1.0.1
+    subdir: app
+    srclibs:
+      - flutter@stable
+
+AllowedAPKSigningKeys: 07b5786c894912159e290d7fe14cec472a4051ca61aeb809941a96c8a64a48ca
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: '1.0.1'
+CurrentVersionCode: 2
+
+
+

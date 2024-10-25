@@ -1,0 +1,7 @@
+Whenever your finger touches the screen the device's flashlight turns on and stays on as long as your finger is in contact with the screen. As son as you lift the finger off the screen, the light turns off again.
+Try some fun patterns or even try morse codes using this app!
+
+Happy flashing! …erm
+
+Note for developers:
+I am happy if this app serves somebody well and am happy to accept pull requests :-) Please feel free to contribute!
