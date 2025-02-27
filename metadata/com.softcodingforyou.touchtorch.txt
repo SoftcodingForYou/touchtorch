@@ -2,8 +2,8 @@ Categories:
   - System
 License: BSD-3-Clause
 AuthorName: SoftcodingForYou
-AuthorEmail: contact@softcodingforyou.com
-AuthorWebSite: https://davidbaum.org/softcodingforyou
+AuthorEmail: touchtorch@davidb.anonaddy.com
+AuthorWebSite: https://github.com/SoftcodingForYou
 SourceCode: https://github.com/SoftcodingForYou/touchtorch
 IssueTracker: https://github.com/SoftcodingForYou/touchtorch/issues
 Changelog: https://github.com/SoftcodingForYou/touchtorch/releases

@@ -1,7 +1,7 @@
 # Touch Torch
 
 ## App logo
-![App logo](artwork/app_logo.png)
+![App logo](metadata/en-US/images/icon.png)
 
 ## Description
 This is a simple Flutter/Dart-based mobile app: You touch the screen and the light turns on. The light stays on until you lift you finger off the screen!
@@ -17,9 +17,9 @@ The whole app is written with less than 100 lines of Flutter/Dart code.
 2. home.dart: The single screen of the app. Contains a Stack() widget that holds background images and text
 
 ## Artwork
-![App artwork 1](artwork/Page1.png)
-![App artwork 2](artwork/Page2.png)
-![App artwork 3](artwork/Page3.png)
+![App artwork 1](metadata/en-US/images/phoneScreenshots/1.png)
+![App artwork 2](metadata/en-US/images/phoneScreenshots/2.png)
+![App artwork 3](metadata/en-US/images/phoneScreenshots/3.png)
 
 ## License
 This project is licensed under the BSD 3-Clause License. See the [LICENSE](LICENSE) file for details.
