@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:torch_controller/torch_controller.dart';
 import 'package:touchtorch/home.dart';
 
 void main() {
-  TorchController().initialize();
   runApp(const MyApp());
 }
 

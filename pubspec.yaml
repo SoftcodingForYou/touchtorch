@@ -35,7 +35,8 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  torch_controller: ^2.0.1
+  # torch_controller: ^2.0.1 // Seems unmaintained and incompatible with recent flutter versions
+  torch_light: ^1.1.0
   flutter_launcher_icons: ^0.13.1
 
 flutter_launcher_icons: # Run "flutter pub run flutter_launcher_icons" in command line
